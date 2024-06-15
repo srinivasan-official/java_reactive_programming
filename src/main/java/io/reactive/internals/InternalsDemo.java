@@ -1,7 +1,6 @@
 package io.reactive.internals;
 
 import io.reactive.internals.publisher.PublisherImpl;
-import io.reactive.internals.publisher.SubscriptionImpl;
 import io.reactive.internals.subscriber.SubscriberImpl;
 import org.reactivestreams.Publisher;
 import org.reactivestreams.Subscriber;
